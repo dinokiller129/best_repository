@@ -1,2 +1,4 @@
 # C And C++ Code
-Welcome to my repository for c and c++ code that is hopefully useful in some way to somebody.
+Hello Everybody!
+
+This is a repository to store c and c++ code for use later, without being put into it's own repository.
